@@ -16,19 +16,15 @@
 
 window.MICRO_APPS_CONFIG = {
   links: {
-    /* Páginas de compra / acceso de cada aplicación */
     HABIT_TRACKER: "https://whop.com/tiktok-515e/habit-tracker01/",
-    FOCUS_TIMER: https://whop.com/tiktok-515e/focus-timer01/,
+    FOCUS_TIMER: "https://whop.com/tiktok-515e/focus-timer01/",
 
-    /* Redes sociales */
     TIKTOK: "https://www.tiktok.com/@microapps1?lang=es",
     INSTAGRAM: "PENDIENTE_ENLACE_INSTAGRAM",
 
-    /* Páginas legales (se añadirán más adelante) */
     PRIVACY: "PENDIENTE_PAGINA_PRIVACIDAD",
     TERMS: "PENDIENTE_PAGINA_CONDICIONES"
   },
 
-  /* Correo de contacto (se usa en el texto y en el enlace mailto) */
   email: "microapps.business@gmail.com"
 };
